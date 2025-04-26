@@ -1,0 +1,2 @@
+# FastAPI-Recruit
+AI Project
